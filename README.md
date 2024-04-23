@@ -1,7 +1,7 @@
 # Book Search Engine
 
 ## Description 
-This app allows users to login/signup and search for movies that they are interested in, they will be able to save movies and view them. Once they are no longer interested in the movies they can delete the saved movie.
+This app allows users to login/signup and search for a book that they are interested in, they will be able to save the books and view them. Once they are no longer interested in the book they can delete the saved books.
 
 ## User Story
 ```
